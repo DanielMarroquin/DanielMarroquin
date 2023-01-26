@@ -1,6 +1,6 @@
 <h3 align="center">I'm Daniel, a passionate software developer</h3>
 
-- 🦾 I’m currently working on **Angular, Node JS and learn and learn about culture DevOps.**
+- 🦾 I’m currently working on **Angular, Node JS and learn about culture DevOps.**
 - 🤝 I’m looking to meet Devs and **collaborate in news projects and help.**
 - 🐐 I'm finding get better my skills **and to create funny projects.**
 - 📫 How to reach me in [dev.danielmarroquin25@gmail.com](dev.danielmarroquin@gmail.com)
