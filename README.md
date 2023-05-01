@@ -6,7 +6,7 @@
 - 📫 How to reach me in [dev.danielmarroquin25@gmail.com](dev.danielmarroquin@gmail.com)
 - 👨‍💻 Even working in my projects coming soon in: [https://danielmarroquin.netlify.app/](https://danielmarroquin.netlify.app/)
 - 💬 Ask me about **anything**
-- 📝 My Site-Project: ByteFrost [https://bytefrost.tech/](https://bytefrost.tech/)
+- 📝 My Side-Project: ByteFrost [https://bytefrost.tech/](https://bytefrost.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
